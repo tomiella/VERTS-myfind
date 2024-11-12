@@ -1,5 +1,5 @@
 all:
-    gcc -o myfind myfind.c
+	gcc -o myfind myfind.c
 
 clean:
-    rm -f myfind
+	rm -f myfind
